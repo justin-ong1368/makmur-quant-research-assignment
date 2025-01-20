@@ -1,5 +1,5 @@
 # makmur-quant-research-assignment
-##Background Information
+## Background Information
 This project is part of a quantitative research initiative focused on analyzing financial transaction data to uncover insights into how different brokerages and investor types impact price movements in the market. By leveraging a dataset containing detailed trade information, the goal is to identify patterns, relationships, and predictive indicators that can inform trading strategies and enhance understanding of market dynamics.
 
 ## Key Questions
